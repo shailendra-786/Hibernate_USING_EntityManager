@@ -1,0 +1,1 @@
+# Hibernate_USING_EntityManager
